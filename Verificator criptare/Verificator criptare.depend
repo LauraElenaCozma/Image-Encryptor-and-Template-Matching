@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545327992 source:d:\info facultate\verificator criptare\main.c
+	<stdio.h>
+	<string.h>
+
